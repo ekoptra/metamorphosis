@@ -1,0 +1,72 @@
+breathe,breath,pant,gasp,inhale,exhale,respiration
+suicide,kill myself,take my own life,kill self,take own life,suicidal,
+insomnia,sleep,restless
+panic,alarm,confusion,consternation,dismay,dread,fear,frenzy,horror,hysteria,rush,scare,stampede,terror,trepidation,fright
+depress,depression
+blush
+sweat,perspiration,steam
+nervous,afraid,agitate,annoy,apprehensive,concerned,edgy,fussy,hesitant,hysterical,irritable,jittery,jumpy,shaky,shy,skittish,spook,tense,timid,uneasy,uptight,volatile,weak,hysteria,look down,eye contact,reluctant,irritability
+sad,bitter,dismal,heartbroken,melancholy,mournful,somber,sorrowful,sorry,wistful,sadness
+stutter,sputter,stammer,stumble
+nausea,vomit,stomach
+dizzy,daze,distract,dumb,giddy,groggy,shaky,wobbly,woozy,dizziness
+tremble,shake,vibrate,flutter,quiver,shiver,shudder,throb,woble
+avoidance,elude,prevent,evasion,prevention,restraint
+chest pain,heart attack,cardiovascular disease,congestive heart failure
+obsessive,neurotic,compulsive,distraught,disturb,manic
+psychosis,absurdity,alienation,craziness,dementia,folly,frenzy,irresponsibility,lunacy,madness
+paranoia
+mood
+impulsive,abrupt,hasty,impetuous,instinctive,offhand,passionate,spontaneous,violent
+anxious,anxiety
+delusion,deception,fantasy,hallucination,illusion,pipe dream
+hungry,eager,greedy,ravenous,starve
+fluctuation,vacillation,variation,inconstancy,change
+weight
+confuse,amaze,astonish,baffle,befuddle,bemuse,bewilder,complicate,confound,daze,demoralize,disconcert,embarrass,fluster,misinform,mislead,mortify,muddle,mystify,obscure,perplex,perturb,puzzle,unsettle
+concentrate,focus,settle,intensify
+fear,anticipate,avoid,dread,expect,foresee,shun,suspect
+worry
+guilt,blame,regret,shame
+withdrawal,disengagement,removal,retraction,resignation,exit,quit,interest
+tire,low energy,exhaust,drain,fatigue,weary
+stress,psychosomatic
+eat,diet,food,consume
+alcohol,drink,liquor,drink alcohol
+drug,substance
+anger,rage,fury,temper,mad,upset,irritate,offend,angry,trigger,tantrum
+hostile,unfriendly,antagonistic,malefic
+violence,assault,attack,bloodshed,brutality,clash,cruelty,fight,rampage
+libido,sex drive,sex,lust
+addict,junkie
+back pain
+headache,migraine
+stomachache
+cry,howl,lament,sob
+appetite
+overreact
+heartbeat,pulse,heart,pulsate
+empty,blank,devoid
+hopeless,desperate,pessimistic,futile,helpless
+lonely,alone,lonesome,desolate,desert
+trauma,agony,anguish,torture,strain
+distrust,believe,trust,disbelief,doubt,skepticism,suspicion,mistrust,misgive,faith,wariness
+emotion
+frustrate
+discourage
+smoking
+distract
+disorient
+hatred,hate,animosity,resentment
+jealous,envy
+scare,shock,terrify,frighten,terrorize,paralyze,startle,dismay
+harm,selfharm,selfharming
+procrastinate
+excess,excessive
+forget
+communicate
+echolalia
+balance
+respond
+lazy
+overthink
