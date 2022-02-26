@@ -1,5 +1,5 @@
 breathe,breath,pant,gasp,inhale,exhale,respiration
-suicide,kill myself,take my own life,kill self,take own life,suicidal,
+suicide,kill myself,take my own life,kill self,take own life,suicidal
 insomnia,sleep,restless
 panic,alarm,confusion,consternation,dismay,dread,fear,frenzy,horror,hysteria,rush,scare,stampede,terror,trepidation,fright
 depress,depression
