@@ -1,5 +1,7 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from helpers.preprocessing import PreProcessing
+from flask_cors import cross_origin
+
 import joblib
 
 vectorizer = joblib.load("modeling/vectorizer.save")
@@ -14,16 +16,17 @@ app = Flask(__name__, template_folder="public")
 
 @app.route("/")
 def home():
-    return "Bipolar Prediction"
+    return render_template("index.html")
 
 
 @app.route("/api/predict/bipolar", methods=["POST"])
+@cross_origin()
 def prediction():
     try:
         symptoms = request.json["symptoms"]
         symptoms_preprocess = preprocessing.transform(symptoms)
 
-        X = vectorizer.transform([symptoms_preprocess]).toarray()
+        X = vectorizer.transform(symptoms_preprocess)
         prediction = model.predict(X)
         prediction = label_encoder.inverse_transform(prediction)[0]
         return (
@@ -32,7 +35,7 @@ def prediction():
                     "success": True,
                     "data": {
                         "symptoms": symptoms,
-                        "word_used_to_predict": symptoms_preprocess,
+                        "word_used_to_predict": symptoms_preprocess[0],
                         "prediction": prediction,
                     },
                 }

@@ -247,6 +247,4 @@ class PreProcessing():
         sentences = self.__get_selected_word(sentences, self.selected_word2)
         
         # join
-        sentences = [" ".join(symptoms) for symptoms in sentences]
-        
-        return sentences if is_array else sentences[0]
+        return [" ".join(symptoms) for symptoms in sentences]
